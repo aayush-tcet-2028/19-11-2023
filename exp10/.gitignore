@@ -1,0 +1,15 @@
+# Generated Rails application and dependencies.
+/exp10_app/
+/.bundle/
+/vendor/bundle/
+*.gem
+*.exe
+*.pkg.tar.*
+*.bundle
+
+# Local runtime data and credentials.
+*.sqlite3
+*.sqlite3-*
+*.log
+**/config/master.key
+**/.env
